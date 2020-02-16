@@ -1,0 +1,10 @@
+{
+  "name": "render-audio-extension",
+  "version": "1.0.0",
+  "description": "Listen to a SPA render",
+  "main": "dist/",
+  "repository": "git@github.com:hjfitz/render-dom-manipulation-as-audio-ext.git",
+  "author": "Harry Fitzgerald <hfitz83+github@gmail.com>",
+  "license": "GPL-3.0",
+  "private": false
+}
